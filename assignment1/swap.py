@@ -1,7 +1,4 @@
 '''
-assignment-1
-submitted by-Deepika Kumari Gupta
-
 Q.Two numbers are input through the keyboard into two location C and D.
 Write a program to interchange the contents of C and D.
 '''

@@ -1,7 +1,4 @@
 '''
-assignment-1
-submitted by-Deepika kumari Gupta
-
 Q. write a program to print your name.
  '''
 

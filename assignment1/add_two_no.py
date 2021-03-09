@@ -1,7 +1,4 @@
 '''
-assignment-1
-submitted by-Deepika Kumari Gupta
-
 Q. Write a program to add two numbers(Input through keyboard) and display its sum.
 '''
 

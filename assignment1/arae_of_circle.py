@@ -1,7 +1,4 @@
 '''
-assignment-1
-submitted by-Deepika Kumari Gupta
-
 Q.Write a program to calculate area of a circle with radius 2.
 '''
 

@@ -1,9 +1,7 @@
 '''
-assignment-1
-submitted by-Deepika Kumari Gupta
-
 Q.Write a program to calculate simple interest for a given principal, rate of interest,and time. [Formula: I=P*t*i].
 '''
+
 principal = float(input("Enter the principal amount: "))
 
 time = float(input("Enter the tenure in years: "))

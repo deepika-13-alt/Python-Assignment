@@ -1,7 +1,4 @@
 '''
-assignment-1
-submitted by -Deepika Kumari Gupta
-
 Q.Write a program to take input marks of two subject and print aggregate.
 '''
 
