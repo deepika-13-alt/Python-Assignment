@@ -2,9 +2,13 @@
 wap to convert celsius to fahrenheit.
 '''
 
-print("Enter Fahrenheit")
+
+print("enter fahrenheit")
+
 #get the fahrenheit
 fahrenheit = float(input())
+
 #convert fahrenheit to celsius
 celsius = (fahrenheit - 32)*5/9
-print ("Celsius:", celsius)
+
+print ("Celsius:", celsius)                                                          
